@@ -10,3 +10,4 @@ switch to master and save something.
 
 a new baranch name is bug101
 
+try git stash 
