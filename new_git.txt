@@ -10,3 +10,4 @@ switch to master and save something.
 
 a new baranch name is feature1
 
+try git stash 
